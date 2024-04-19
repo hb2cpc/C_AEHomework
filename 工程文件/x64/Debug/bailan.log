@@ -1,0 +1,3 @@
+﻿  bailan.cpp
+C:\Users\hb2cpc\Desktop\bailan\bailan\bailan\bailan.cpp(45,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  bailan.vcxproj -> C:\Users\hb2cpc\Desktop\bailan\bailan\x64\Debug\bailan.exe
